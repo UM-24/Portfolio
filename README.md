@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bryan. My GitHub currently has a few Python scripts i've used to complete multi-hour manual tasks within minutes. SQL scripts to be added soon!
+- 👋 Hi, I’m Bryan. My GitHub currently has a few Python scripts i've used to complete multi-hour manual tasks within minutes. SQL scripts & Power BI reports to be added soon!
 - 👀 I’m interested in data engineering, data visualization, AI, and python
 - 🌱 I’m currently learning microsoft fabric
 - ⚡ Fun fact: I taught myself how to snowboard during COVID
